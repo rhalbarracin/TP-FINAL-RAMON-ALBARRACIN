@@ -99,6 +99,8 @@ h6{
     text-align: center;
     color: darkred;
 
+ /* FORMULARIO CONTACTO */   
+
 }
 .form-header{
     font-size: 25px;
@@ -142,4 +144,9 @@ h6{
 .botons:hover{
     color: darkorange;
     text-decoration: dunderline;
+}
+@media (max-width: 480px) {
+    form-register{
+        width: 100%;
+    }
 }
