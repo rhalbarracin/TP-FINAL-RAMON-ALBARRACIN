@@ -107,7 +107,8 @@ h6{
     text-align: center;
 }
 .form-register{
-    width: 600px;
+    width: 95%;
+    max-width: 600px;
     background: #24303c;
     padding: 30px;
     margin: auto;
